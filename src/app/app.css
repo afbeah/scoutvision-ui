@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.app-container {
+  padding: 24px;
+}
+
+h1 {
+  color: #1e88e5;
+}
